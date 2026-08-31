@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItzVarad/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

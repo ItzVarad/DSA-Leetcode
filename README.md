@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -38,9 +39,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/ItzVarad/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
